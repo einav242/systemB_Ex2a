@@ -6,7 +6,7 @@
 
 
 namespace ariel{
-    int i=2992929;
+    
         Notebook::Notebook()
         {
             
